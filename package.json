@@ -10,7 +10,7 @@
     "serve:mock": "cross-env MOCK=true vue-cli-service serve"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "cross-env": "^7.0.2",
     "element-ui": "^2.13.0",
